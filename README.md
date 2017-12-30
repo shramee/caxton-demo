@@ -1,1 +1,3 @@
-# caxton-demo
+# Caxton demo
+
+This theme demos Caxton 
